@@ -1,0 +1,10 @@
+https://klaarassessment.herokuapp.com/branches/?q=Bangalore&limit=20&offset=20
+https://klaarassessment.herokuapp.com/branches/?q=Anand&limit=40&offset=5
+https://klaarassessment.herokuapp.com/branches/?q=MalMal&limit=30&offset=2
+https://klaarassessment.herokuapp.com/branches/?q=Shiva&limit=20&offset=12
+https://klaarassessment.herokuapp.com/branches/?q=RTGS&limit=10&offset=10
+https://klaarassessment.herokuapp.com/autocomplete/?q=RTGS&limit=20&offset=20
+https://klaarassessment.herokuapp.com/autocomplete/?q=Miyan&limit=40&offset=5
+https://klaarassessment.herokuapp.com/autocomplete/?q=Anand&limit=30&offset=2
+https://klaarassessment.herokuapp.com/autocomplete/?q=Civil&limit=20&offset=12
+https://klaarassessment.herokuapp.com/autocomplete/?q=Bangalore&limit=10&offset=10
