@@ -30,6 +30,7 @@ DEBUG = True
 # ALLOWED_HOSTS = ['mrmapp.herokuapp.com']
 
 # ALLOWED_HOSTS = ['localhost','127.0.0']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
