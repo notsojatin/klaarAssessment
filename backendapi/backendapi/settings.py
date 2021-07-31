@@ -87,10 +87,10 @@ WSGI_APPLICATION = 'backendapi.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'Banks',
-        'USER': 'awstatic',
-        'PASSWORD': '1234',
-        'HOST': 'localhost',
+        'NAME': 'bf1ejdfzjo4c7jgrnkyv',
+        'USER': 'u8exb9qiqnp5tzfpzq67',
+        'PASSWORD': 'qZF09peey1rkqNJ9JbLR',
+        'HOST': 'bf1ejdfzjo4c7jgrnkyv-postgresql.services.clever-cloud.com',
         'POST': '',
     }
 }
