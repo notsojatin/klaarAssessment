@@ -1,1 +1,1 @@
-web: gunicorn backendapi.wsgi --log-file -
+web: gunicorn backendapi.wsgi:application --log-file -
