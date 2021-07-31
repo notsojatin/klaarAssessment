@@ -1,1 +1,1 @@
-web: gunicorn --chdir backendapi backendapi.wsgi
+web: gunicorn --chdir backendapi backendapi.wsgi:application
